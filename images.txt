@@ -1,2 +1,3 @@
 jxxghp/moviepilot:latest
 xhofe/alist:latest
+rustdesk/rustdesk-server
