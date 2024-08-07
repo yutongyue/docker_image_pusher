@@ -1,3 +1,5 @@
 jxxghp/moviepilot:latest
 xhofe/alist:latest
 rustdesk/rustdesk-server
+p3terx/aria2-pro
+p3terx/ariang
