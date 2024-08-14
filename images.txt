@@ -3,3 +3,5 @@ xhofe/alist:latest
 rustdesk/rustdesk-server
 p3terx/aria2-pro
 p3terx/ariang
+wallabag/wallabag
+nfew/siyuan
