@@ -5,3 +5,4 @@ p3terx/aria2-pro
 p3terx/ariang
 wallabag/wallabag
 apkdv/siyuan-unlock
+jgraph/drawio
