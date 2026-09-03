@@ -4,10 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-jxxghp/moviepilot:latest
 rustdesk/rustdesk-server
 p3terx/aria2-pro
 p3terx/ariang
-apkdv/siyuan-unlock
 jgraph/drawio
-logvar/danmu-api:latest
+
