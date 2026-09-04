@@ -9,3 +9,6 @@ p3terx/aria2-pro
 p3terx/ariang
 jgraph/drawio
 dpanel/dpanel:lite
+apkdv/siyuan-unlock
+logvar/danmu-api:latest
+jxxghp/moviepilot:latest
