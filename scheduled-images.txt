@@ -1,5 +1,3 @@
 # 这里只放需要由 GitHub Actions 定时重新 pull 的镜像。
 # 请通过 ACR Mirror Manager 页面管理，或直接按 images.txt 的相同格式编辑。
-apkdv/siyuan-unlock
-logvar/danmu-api:latest
-jxxghp/moviepilot:latest
+
