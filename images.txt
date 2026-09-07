@@ -12,3 +12,7 @@ dpanel/dpanel:lite
 apkdv/siyuan-unlock
 logvar/danmu-api:latest
 jxxghp/moviepilot:latest
+registry.cn-shanghai.aliyuncs.com/goodat/teaching-open-db:latest
+registry.cn-shanghai.aliyuncs.com/goodathub/redis:6-alpine
+registry.cn-shanghai.aliyuncs.com/goodat/teaching-open-api:latest
+registry.cn-shanghai.aliyuncs.com/goodat/teaching-open-web:latest
