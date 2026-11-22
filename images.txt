@@ -4,8 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-p3terx/aria2-pro
-p3terx/ariang
-dpanel/dpanel:lite
-jxxghp/moviepilot:latest
 openlistteam/openlist:latest
