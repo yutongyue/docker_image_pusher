@@ -2,3 +2,4 @@
 # 请通过 ACR Mirror Manager 页面管理，或直接按 images.txt 的相同格式编辑。
 apkdv/siyuan-unlock
 logvar/danmu-api:latest
+dpanel/dpanel:lite
