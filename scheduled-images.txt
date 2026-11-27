@@ -5,3 +5,4 @@ logvar/danmu-api:latest
 dpanel/dpanel:lite
 openlistteam/openlist:latest
 rustdesk/rustdesk-server:latest
+mtphotos/mt-photos:latest
